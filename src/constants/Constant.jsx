@@ -22,7 +22,7 @@ import Sports from "../assets/Sports_Club.png";
 import FIIT from "../assets/fitt.png";
 import GDSC from "../assets/GDSC.png";
 import Karwaan from "../assets/karwaan.png";
-import Mass from "../assets/Mass.png";
+import Mass from "../assets/mass.png";
 
 
 import Portfolio from "../assets/portfolio.jpg";
