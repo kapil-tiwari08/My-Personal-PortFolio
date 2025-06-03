@@ -1,5 +1,5 @@
 import Lottie from "lottie-react";
-import education from "../assets/lottie/education.json";
+import educationAnimation from "../assets/lottie/Education.json";
 import JEC from "../assets/jec.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -11,7 +11,7 @@ const Education = () => {
   }, []);
   return (
     <section
-      id="education"
+      id="educationAnimation"
       className="EXPERIENCE p-5 mx-20 mb-10 min-h-screen font-['Poppins']  max-sm:p-2 max-sm:mx-5"
     >
       <div className="WRAPPER mt-10">
@@ -45,7 +45,7 @@ const Education = () => {
             </div>
           </div>
           <Lottie
-            animationData={education}
+            animationData={educationAnimation}
             loop={true}
             className="max-w-[500px] shadow-xl rounded-xl border border-[#00040f]"
           />
