@@ -38,7 +38,10 @@ const Contact = () => {
           </h2>
           <hr className="my-2 border-slate-400 w-[60%] mx-auto sm:mx-0 transition-all" />
           <p className="text-gray-600 dark:text-slate-400 mt-5 leading-7 sm:max-w-[400px]">
-            Google DSC Web Dev Lead | Teaching Head - Kaarwaa.N'24 <br />
+            AI & Data Science enthusiast crafting smart web apps with React and
+            Tailwind.
+            <br />
+            Teaching Head - Kaarwaa.N'24 <br />
             Football Team Captain - JEC Football Club <br /> JEC Jabalpur'25
           </p>
 
@@ -84,7 +87,7 @@ const Contact = () => {
               Resume
             </a>
             <a
-              href="https://github.com/DhairyaMajmudar/Personal-Portfolio"
+              href="https://github.com/kapil-tiwari08/My-Personal-PortFolio"
               className="border text-cyan-400 border-cyan-400 text-lg px-6 py-3 rounded hover:bg-black hover:text-white transition duration-300 flex items-center gap-2 transform hover:scale-105"
             >
               <SiGithub />
