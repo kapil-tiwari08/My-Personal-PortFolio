@@ -1,6 +1,6 @@
 import Lottie from "lottie-react";
 import educationAnimation from "../assets/lottie/Education.json";
-import JEC from "../assets/jec.png";
+import JEC from "../assets/Jec.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
