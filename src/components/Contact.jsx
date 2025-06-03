@@ -104,7 +104,7 @@ const Contact = () => {
             className="h-[180px] sm:h-[200px] border-[#00040fab] dark:border-slate-300 border-4 rounded-full transition-all duration-300 hover:scale-105"
           />
           <a
-            href="https://wa.me/yourwhatsapplink"
+            href="https://wa.me/919294890803?text=Hello%21"
             className="border text-cyan-400 border-cyan-400 text-lg px-6 py-3 rounded hover:bg-green-500 hover:text-white transition duration-300 flex items-center gap-2 transform hover:scale-105"
           >
             <SiWhatsapp />
