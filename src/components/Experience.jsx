@@ -5,15 +5,13 @@ import Skills from "./Skills";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
-import JEC from "../assets/jec.png";
+
 
 import {
   SIH,
   AI,
-  IIITDM,
   Sports,
   FIIT,
-  GDSC,
   Karwaan,
   Mass,
 } from "../constants/Constant";

@@ -11,12 +11,10 @@ import {
   gallary,
   humanresorce,
   seo,
-  list,
   doctorvisit,
   grocerycart,
   shopping,
   interview,
-  Portfolio,
   WellBeing,
 } from "../constants/Constant";
 import Tooltip from "@mui/material/Tooltip";
@@ -37,7 +35,7 @@ import {
 } from "react-icons/si";
 import { RiNodejsFill } from "react-icons/ri";
 import { FaStripe } from "react-icons/fa6";
-import { em } from "framer-motion/client";
+
 
 
 
