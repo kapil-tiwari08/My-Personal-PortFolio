@@ -81,7 +81,7 @@ const Contact = () => {
           {/* Buttons */}
           <div className="flex flex-col sm:flex-row items-center sm:items-start gap-4 mt-8">
             <a
-              href="https://drive.google.com/file/d/1K43If9jnvF0AMqiMCab1jBkdObveeZva/view?usp=sharing"
+              href="https://drive.google.com/file/d/1LqQGr2pRKXqRsyeaK6G2r4kKDCwFnyuB/view?usp=sharing"
               className="border text-cyan-400 border-cyan-500 px-6 py-3 text-lg rounded hover:bg-cyan-800 hover:text-white transform hover:scale-105 transition duration-300"
             >
               Resume
