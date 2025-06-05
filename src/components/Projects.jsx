@@ -613,7 +613,7 @@ const Projects = () => {
                 title="Prescripto- Doctor Appointment Booking System Webapp"
                 para="Prescripto is a doctor appointment booking system which allows you to book appointments with doctors online"
                 img={doctorvisit}
-                link="https://prescripto-full-stack-doctor-appoin-ebon.vercel.app"
+                link="https://prescripto-full-stack-doctor-appoin-five.vercel.app"
                 github_link="https://github.com/kapil-tiwari08/prescripto_full-stack_doctor_appointment_app"
                 html5={
                   <Tooltip title="HTML5" arrow>
@@ -739,7 +739,7 @@ const Projects = () => {
                 title="Forever- E-commerce Full Stack Webapp"
                 para="Forever is an e-commerce website which allows you to buy products online"
                 img={shopping}
-                link="https://forever-full-stack-e-commerce-web-a-umber.vercel.app"
+                link="https://forever-full-stack-e-commerce-web-a-steel.vercel.app"
                 github_link="https://github.com/kapil-tiwari08/forever_full_stack_e-commerce-web-app"
                 html5={
                   <Tooltip title="HTML5" arrow>
