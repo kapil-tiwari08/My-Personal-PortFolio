@@ -38,7 +38,7 @@ const Education = () => {
                 className="w-[90px] h-[90px] max-sm:w-[70px] max-sm:h-[70px]"
               />
               <h1 className="bg-clip-text text-transparent bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 dark:from-[#ff6600] dark:to-slate-100 font-semibold text-2xl max-sm:text-[18px] tracking-wide">
-                Jabalpur Engineering College, Jabalpur, Madhya Pradesh
+                Jabalpur Engineering College, [JEC] <br />  Madhya Pradesh
               </h1>
             </div>
 
